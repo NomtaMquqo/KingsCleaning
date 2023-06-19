@@ -1,0 +1,47 @@
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-group"><!-- wp:jetpack/slideshow {"autoplay":true,"ids":[59,58,56,54,55],"sizeSlug":"full","className":"margin-bottom-none"} -->
+<div class="wp-block-jetpack-slideshow aligncenter margin-bottom-none" data-autoplay="true" data-delay="3" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container"><ul class="wp-block-jetpack-slideshow_swiper-wrapper swiper-wrapper"><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-59" data-id="59" src="https://kingscleaning4.files.wordpress.com/2023/06/1608662007kingscleanslogotransparent2-1.png"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-58" data-id="58" src="https://kingscleaning4.files.wordpress.com/2023/06/309019608_555475033245367_5854866097507085995_n.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-56" data-id="56" src="https://kingscleaning4.files.wordpress.com/2023/06/311618532_553495840109953_5907773445150871588_n.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-54" data-id="54" src="https://kingscleaning4.files.wordpress.com/2023/06/278841212_536206894880973_1600041796422516632_n.jpg"/></figure></li><li class="wp-block-jetpack-slideshow_slide swiper-slide"><figure><img alt="" class="wp-block-jetpack-slideshow_image wp-image-55" data-id="55" src="https://kingscleaning4.files.wordpress.com/2023/06/278934140_532374145264248_7966805780282595756_n.jpg"/></figure></li></ul><a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>
+<!-- /wp:jetpack/slideshow -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}},"elements":{"link":{"color":{"text":"var:preset|color|black"}}}},"backgroundColor":"pale-cyan-blue","textColor":"black","className":"margin-top-none"} -->
+<div class="wp-block-group margin-top-none has-black-color has-pale-cyan-blue-background-color has-text-color has-background has-link-color" style="margin-top:0px;padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:site-title {"isLink":false,"style":{"typography":{"textTransform":"capitalize","letterSpacing":"0px","textDecoration":"none"}},"backgroundColor":"pale-cyan-blue","fontSize":"x-large"} /-->
+
+<!-- wp:paragraph {"backgroundColor":"background"} -->
+<p class="has-background-background-color has-background">Welcome to Kings Cleaning Services, your trusted partner in professional cleaning services!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"background","textColor":"primary"} -->
+<p class="has-primary-color has-background-background-color has-text-color has-background">At Kings Cleaning, we understand the importance of maintaining a clean and healthy environment. We believe that a clean space promotes productivity, enhances well-being, and leaves a positive impression on both residents and visitors. With our years of experience and dedicated team, we have become a leading provider of exceptional cleaning services in the area.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"background","textColor":"primary","className":"margin-top-half"} -->
+<p class="margin-top-half has-primary-color has-background-background-color has-text-color has-background">We offer various kinds of cleaning services which includes cleaning services for Office, Commercial, General, Janitorial and Restrooms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"background","textColor":"primary","className":"margin-top-half"} -->
+<p class="margin-top-half has-primary-color has-background-background-color has-text-color has-background"><strong>Our Mission </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"background","textColor":"primary"} -->
+<p class="has-primary-color has-background-background-color has-text-color has-background">Our mission is to deliver top-quality cleaning solutions tailored to meet the unique needs of each client. Whether you require residential, commercial, or specialized cleaning services, we have the expertise and resources to exceed your expectations. We take pride in our attention to detail and commitment to customer satisfaction, making us the preferred choice for countless individuals and businesses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"background","textColor":"primary"} -->
+<p class="has-primary-color has-background-background-color has-text-color has-background">What sets us apart from the competition is our highly trained and professional team of cleaners. We carefully select and train each member to ensure they possess the necessary skills, knowledge, and work ethic to deliver outstanding results. Our cleaners are not only experts in their craft but also courteous, reliable, and respectful of your property and privacy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"background","textColor":"primary"} -->
+<p class="has-primary-color has-background-background-color has-text-color has-background">We understand that every space is different, which is why we offer customizable cleaning packages. Whether you need a one-time deep cleaning, regular maintenance, or specialized services like carpet or window cleaning, we can tailor our solutions to suit your specific requirements. Our state-of-the-art equipment, eco-friendly cleaning products, and proven techniques ensure thorough and efficient cleaning without compromising the health and safety of your environment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"},"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}}} -->
+<div class="wp-block-buttons" style="font-style:normal;font-weight:700"><!-- wp:button {"backgroundColor":"primary","width":100,"style":{"color":{"text":"#ffffff"},"border":{"radius":"4px"},"typography":{"fontStyle":"normal","fontWeight":"500"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill" style="font-style:normal;font-weight:500"><a class="wp-block-button__link has-primary-background-color has-text-color has-background wp-element-button" href="https://www.facebook.com/KingsCleaningServicesTaunton/" style="border-radius:4px;color:#ffffff">Get in touch</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:social-links {"iconColor":"black","iconColorValue":"#000000","style":{"spacing":{"blockGap":{"top":"8px","left":"8px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"right"}} -->
+<ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://www.facebook.com/KingsCleaningServicesTaunton/","service":"facebook"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
