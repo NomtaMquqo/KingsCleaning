@@ -1,0 +1,85 @@
+<!-- wp:template-part {"slug":"header","theme":"pub/skatepark","tagName":"header"} /-->
+
+<!-- wp:cover {"url":"https://kingscleaning4.files.wordpress.com/2023/06/pexels-photo-4108715-2.jpeg","id":131,"dimRatio":40,"overlayColor":"foreground-dark","align":"full"} -->
+<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-foreground-dark-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-131" alt="" src="https://kingscleaning4.files.wordpress.com/2023/06/pexels-photo-4108715-2.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Let us make your kingdom shine. </h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Welcome to Kings Cleaning, your trusted partner in professional cleaning services! We understand that maintaining a clean and healthy environment is crucial for the well-being of your family or business. That's why we offer a comprehensive range of cleaning solutions tailored to your specific needs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://kingscleaning4.wordpress.com/bookings/">Book now</a></div>
+<!-- /wp:button --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:spacer {"height":"64px","className":"desktop-only"} -->
+<div style="height:64px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"opacity":"css"} -->
+<hr class="wp-block-separator has-css-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"64px","className":"desktop-only"} -->
+<div style="height:64px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Excellence</h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":141,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://kingscleaning4.files.wordpress.com/2023/06/pexels-photo-6345328.jpeg" alt="" class="wp-image-141"/><figcaption class="wp-element-caption">Photo by Karolina Grabowska on <a href="https://www.pexels.com/photo/pile-of-sport-medals-on-table-6345328/" rel="nofollow">Pexels.com</a></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>At Kings Cleaning, we value customer satisfaction above all else. That's why we offer flexible scheduling options, competitive pricing, and a guarantee of our work. We are fully insured and bonded for your peace of mind.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Professionalism</h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":139,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://kingscleaning4.files.wordpress.com/2023/06/pexels-photo-6195122.jpeg" alt="" class="wp-image-139"/><figcaption class="wp-element-caption">Photo by Tima Miroshnichenko on <a href="https://www.pexels.com/photo/people-wearing-sneakers-6195122/" rel="nofollow">Pexels.com</a></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Our team of experienced professionals uses advanced equipment and eco-friendly cleaning products to ensure a thorough cleaning of your premises. We take pride in our attention to detail and commitment to delivering outstanding results with every job we undertake.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Expertise</h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":134,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://kingscleaning4.files.wordpress.com/2023/06/vacuum-cleaner-carpet-cleaner-housework-housekeeping-38325.jpeg" alt="" class="wp-image-134"/><figcaption class="wp-element-caption">Photo by Pixabay on <a href="https://www.pexels.com/photo/black-and-red-canister-vacuum-cleaner-on-floor-38325/" rel="nofollow">Pexels.com</a></figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Whether you need a regular cleaning service for your home or office, or a one-time deep cleaning for a move-in/move-out, renovation, or special occasion, we've got you covered. We also offer specialized services such as carpet cleaning, window cleaning, upholstery cleaning, and more.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"32px","className":"desktop-only"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"opacity":"css"} -->
+<hr class="wp-block-separator has-css-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"32px","className":"desktop-only"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer desktop-only"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:template-part {"slug":"footer","theme":"pub/skatepark","tagName":"footer","className":"site-footer-container"} /-->
